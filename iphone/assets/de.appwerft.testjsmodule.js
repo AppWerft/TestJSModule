@@ -3,6 +3,6 @@ var Module = function() {
 };
 Module.prototype = {
 	getProperty : function() {
-	}
+	}  
 };
 module.exports = Module;
